@@ -1,0 +1,21 @@
+*{
+    background-color: whitesmoke;
+}
+#titulo01{
+    color: #272863;
+    text-decoration: underline #56577D;
+    text-align: center;
+}
+#subtitulo01{
+    color: #272863;
+}
+#sub1{
+    color: #56577D;
+    width: 500px;
+    text-align: left;
+}
+.div1{
+    border: ridge #797AB0 5px;
+    width: 230px;
+    text-align: center;
+}
